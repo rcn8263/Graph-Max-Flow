@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MaxFlow test2" type="Application" factoryName="Application" editBeforeRun="true" activateToolWindowBeforeRun="false">
+    <option name="MAIN_CLASS_NAME" value="edu.rit.cs.maxflow.MaxFlow" />
+    <module name="MaxFlow" />
+    <option name="PROGRAM_PARAMETERS" value="Tests/test2.txt A G" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

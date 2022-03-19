@@ -1,0 +1,10 @@
+source A 500
+A B 300
+C A 300
+B D 300
+C D 300
+C E 300
+E G 300
+D F 300
+G F 300
+F sink 600

@@ -1,0 +1,9 @@
+source A 1
+A C 6
+C E 6
+E sink 6
+source B 6
+B D 6
+D F 6
+F A 5
+F sink 1

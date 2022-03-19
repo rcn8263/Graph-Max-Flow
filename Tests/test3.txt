@@ -1,0 +1,7 @@
+source A 60
+A D 120
+source C 120
+C B 120
+A B 120
+B sink 60
+D sink 120
